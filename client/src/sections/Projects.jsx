@@ -15,7 +15,7 @@ const projects = [
 
     github: "https://github.com/sayonmitra-69/Full-Stack-News-Application",
 
-    demo: "#",
+    demo: "https://full-stack-news-application.vercel.app",
   },
 
   {
@@ -31,7 +31,7 @@ const projects = [
     github:
       "https://github.com/sayonmitra-69/TextUtils-Your-Go-To-Text-Utility",
 
-    demo: "#",
+    demo: "https://text-utils-your-go-to-text-utility.vercel.app",
   },
 
   {
@@ -46,7 +46,7 @@ const projects = [
 
     github: "https://github.com/sayonmitra-69/Stone-Paper-Scissors-Web-Game",
 
-    demo: "#",
+    demo: "https://stone-paper-scissors-web-game.vercel.app",
   },
   {
     title: "Currency Converter",
@@ -54,13 +54,13 @@ const projects = [
     description:
       "Real-time currency conversion app using external REST APIs with dynamic exchange rate updates.",
 
-    image: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+    image: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5",
 
     tech: ["JavaScript", "REST API", "CSS"],
 
     github: "https://github.com/sayonmitra-69/Currency-Converter-Web-App",
 
-    demo: "#",
+    demo: "https://currency-converter-web-app-olive.vercel.app",
   },
 ];
 
