@@ -139,12 +139,14 @@ const Projects = () => {
                     GitHub
                   </a>
 
-                  <button
-                    disabled
-                    className="bg-primary/40 cursor-not-allowed text-black px-5 py-3 text-sm font-mono uppercase tracking-wider"
+                   <a
+                    href={project.demo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="border border-outline px-5 py-3 text-sm font-mono uppercase tracking-wider hover:border-primary hover:text-primary transition"
                   >
-                    Live Demo Soon
-                  </button>
+                    Live Demo
+                  </a>
                 </div>
               </div>
             </motion.div>
